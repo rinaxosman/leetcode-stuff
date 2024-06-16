@@ -1,3 +1,3 @@
 # stuff in leetcode
 
-## just stuff 
+just stuff 
